@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhylan 
 - 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Web development and Smart Contract programming
+- 🌱 I’m currently learning Web development and FPGA design
 
 - 📫 How to reach me ...
  Email: dhylan01@gmail.com
