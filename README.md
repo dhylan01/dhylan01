@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhylan 
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning Full-Stack Web Development
+- 👀 I’m interested in Software Development and have previous experience in software engineering from Databricks and Amazon
+- 🌱 I’m currently pursuing my Master's Degree at the University of California: San Diego in Computer Engineering and excited to continue learning new software/hardware skills. 
 
 - 📫 How to reach me ...
  Email: dhylan01@gmail.com
